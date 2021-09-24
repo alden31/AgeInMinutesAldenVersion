@@ -1,5 +1,4 @@
 # AgeInMinutesAldenVersion
-Age in Minutes project
 This is the Age in Minutes project from "The Complete Android 10 and Kotlin Masterclass" 
 
 -Since the course was uploaded a big change was implemented in calling a Button and TextView as you are no longer able to call refer to them in the in the .kt file from the .xml file automatically
