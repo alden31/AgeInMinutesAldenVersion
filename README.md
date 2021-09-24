@@ -1,7 +1,7 @@
 # AgeInMinutesAldenVersion
 This is the Age in Minutes project from "The Complete Android 10 and Kotlin Masterclass" 
 
--Since the course was uploaded a big change was implemented in calling a Button and TextView as you are no longer able to call refer to them in the in the .kt file from the .xml file automatically
+-Since the course was uploaded a big change was implemented in calling a Button and TextView as you are no longer able to call them in the .kt file from the .xml file automatically
 
 -I followed the directions here: https://www.tutorialkart.com/kotlin-android/set-onclicklistener-button-kotlin-android/ to help implement the button
 
